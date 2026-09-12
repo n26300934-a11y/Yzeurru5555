@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Assistant</string>
+    <string name="accessibility_description">Allows Phone Assistant to read visible UI text and perform user-requested interface actions.</string>
+</resources>
